@@ -6,4 +6,5 @@ This is an example repository to practice your git and GitHub skill on. To get s
 3. In your terminal, run the command
 ```bash
 git clone YOUR_URL_HERE
+
 ```
